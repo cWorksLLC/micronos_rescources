@@ -1,2 +1,2 @@
-# micronos_rescources
-The rescources for my Scratch OS, MicronOS
+# MicronOS
+The OS that will make you better.
